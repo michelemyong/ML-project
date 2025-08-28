@@ -9,6 +9,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 1_data/
+3_graph_data/
+4_gnn_data_pipeline/
 build/
 develop-eggs/
 dist/
